@@ -43,3 +43,16 @@ I chose Y, and the following happened:
    - app/index.tsx
    - app/_layout.tsx
 - The reset ensured my project was in a clean state, while still keeping a copy of my previous work in /app-example for reference.
+
+## File Structure Overview
+Some important files and folders created by Expo:
+
+prodev-mobile-app-0x00/
+├── app/                   # Freshly scaffolded app folder
+│   ├── index.tsx          # New home screen
+│   └── _layout.tsx        # Default layout
+├── app-example/           # Backup of previous work
+│   └── app/(tabs)/index.tsx   # Modified screen ("First App Created")
+├── constants/Colors.tsx   # Default color theme
+├── package.json           # Project metadata and dependencies
+├── README.md              # Documentation for this task
