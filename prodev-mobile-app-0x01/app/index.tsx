@@ -3,7 +3,6 @@ import { View, Text, StyleSheet } from "react-native";
 export default function Index() {
   return (
     <View style={styles.container}>
-      {/* Main text */}
       <Text>Entry Screen - Awesome</Text>
 
       <View>
@@ -11,7 +10,6 @@ export default function Index() {
         <Text style={styles.mediumText}>React Native provides you a single codebase for cross platforms</Text>
         <Text style={styles.smallText}>ALX is awesome</Text>
       </View>
-
     </View>
   );
 }
@@ -19,10 +17,6 @@ export default function Index() {
 const styles = StyleSheet.create({
   container: {
     backgroundColor: "#90caf9",
-    flex: 1,
-    alignItems: "center",
-    justifyContent: "center",
-    padding: 20,
   },
   largeText: {
     fontSize: 30,
