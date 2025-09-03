@@ -48,11 +48,11 @@ I chose Y, and the following happened:
 Some important files and folders created by Expo:
 
 prodev-mobile-app-0x00/
-├── app/                   # Freshly scaffolded app folder
+├── app/                   # Freshly scaffolded app folder <br>
 │   ├── index.tsx          # New home screen
 │   └── _layout.tsx        # Default layout
-├── app-example/           # Backup of previous work
+├── app-example/           # Backup of previous work <br>
 │   └── app/(tabs)/index.tsx   # Modified screen ("First App Created")
-├── constants/Colors.tsx   # Default color theme
-├── package.json           # Project metadata and dependencies
-├── README.md              # Documentation for this task
+├── constants/Colors.tsx   # Default color theme <br>
+├── package.json           # Project metadata and dependencies <br>
+├── README.md              # Documentation for this task <br>
