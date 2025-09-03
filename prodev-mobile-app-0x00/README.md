@@ -47,12 +47,12 @@ I chose Y, and the following happened:
 ## File Structure Overview
 Some important files and folders created by Expo:
 
-prodev-mobile-app-0x00/
+prodev-mobile-app-0x00/ <br>
 ├── app/                   # Freshly scaffolded app folder <br>
-│   ├── index.tsx          # New home screen
-│   └── _layout.tsx        # Default layout
+│   ├── index.tsx          # New home screen <br>
+│   └── _layout.tsx        # Default layout <br>
 ├── app-example/           # Backup of previous work <br>
-│   └── app/(tabs)/index.tsx   # Modified screen ("First App Created")
+│   └── app/(tabs)/index.tsx   # Modified screen ("First App Created") <br>
 ├── constants/Colors.tsx   # Default color theme <br>
 ├── package.json           # Project metadata and dependencies <br>
 ├── README.md              # Documentation for this task <br>
